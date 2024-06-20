@@ -1,0 +1,19 @@
+[colors]
+draw_bold_text_with_bright_colors = true
+
+[colors.primary]
+background = "#1d2021"
+foreground = "#c5c8c6"
+
+[env]
+TERM = "alacritty"
+
+[font]
+builtin_box_drawing = true
+size = 13.0
+
+[font.normal]
+family = "JetBrains Mono"
+
+[window]
+opacity = 0.95
